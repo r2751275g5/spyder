@@ -1,0 +1,4 @@
+import math
+S=2
+s=1/(((1/(S))/math.log(S)))
+print (s)
